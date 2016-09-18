@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task13PointInTheFigure\bin\Debug\Task13PointInTheFigure.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task13PointInTheFigure\bin\Debug\Task13PointInTheFigure.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task13PointInTheFigure\bin\Debug\Task13PointInTheFigure.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task13PointInTheFigure\obj\Debug\Task13PointInTheFigure.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task13PointInTheFigure\obj\Debug\Task13PointInTheFigure.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task13PointInTheFigure\obj\Debug\Task13PointInTheFigure.pdb

@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task11Cinema\bin\Debug\Task11Cinema.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task11Cinema\bin\Debug\Task11Cinema.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task11Cinema\bin\Debug\Task11Cinema.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task11Cinema\obj\Debug\Task11Cinema.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task11Cinema\obj\Debug\Task11Cinema.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task11Cinema\obj\Debug\Task11Cinema.pdb

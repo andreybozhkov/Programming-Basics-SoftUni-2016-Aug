@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task04FruitOrVegetable\bin\Debug\Task04FruitOrVegetable.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task04FruitOrVegetable\bin\Debug\Task04FruitOrVegetable.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task04FruitOrVegetable\bin\Debug\Task04FruitOrVegetable.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task04FruitOrVegetable\obj\Debug\Task04FruitOrVegetable.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task04FruitOrVegetable\obj\Debug\Task04FruitOrVegetable.pdb

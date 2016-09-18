@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task08TradeComissions\bin\Debug\Task08TradeComissions.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task08TradeComissions\bin\Debug\Task08TradeComissions.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task08TradeComissions\bin\Debug\Task08TradeComissions.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task08TradeComissions\obj\Debug\Task08TradeComissions.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task08TradeComissions\obj\Debug\Task08TradeComissions.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-04\Lecture04Homework\Task08TradeComissions\obj\Debug\Task08TradeComissions.pdb
