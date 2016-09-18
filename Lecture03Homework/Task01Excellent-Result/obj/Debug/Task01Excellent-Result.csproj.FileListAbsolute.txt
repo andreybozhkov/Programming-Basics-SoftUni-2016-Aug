@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task01Excellent-Result\bin\Debug\Task01Excellent-Result.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task01Excellent-Result\bin\Debug\Task01Excellent-Result.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task01Excellent-Result\bin\Debug\Task01Excellent-Result.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task01Excellent-Result\obj\Debug\Task01Excellent-Result.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task01Excellent-Result\obj\Debug\Task01Excellent-Result.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task01Excellent-Result\obj\Debug\Task01Excellent-Result.pdb

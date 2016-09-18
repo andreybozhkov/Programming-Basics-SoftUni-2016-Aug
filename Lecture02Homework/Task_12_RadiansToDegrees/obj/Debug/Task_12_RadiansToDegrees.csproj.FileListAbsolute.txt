@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_12_RadiansToDegrees\bin\Debug\Task_12_RadiansToDegrees.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_12_RadiansToDegrees\bin\Debug\Task_12_RadiansToDegrees.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_12_RadiansToDegrees\bin\Debug\Task_12_RadiansToDegrees.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_12_RadiansToDegrees\obj\Debug\Task_12_RadiansToDegrees.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_12_RadiansToDegrees\obj\Debug\Task_12_RadiansToDegrees.pdb

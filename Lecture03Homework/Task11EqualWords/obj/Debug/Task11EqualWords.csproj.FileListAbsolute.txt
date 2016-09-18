@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task11EqualWords\bin\Debug\Task11EqualWords.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task11EqualWords\bin\Debug\Task11EqualWords.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task11EqualWords\bin\Debug\Task11EqualWords.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task11EqualWords\obj\Debug\Task11EqualWords.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task11EqualWords\obj\Debug\Task11EqualWords.pdb

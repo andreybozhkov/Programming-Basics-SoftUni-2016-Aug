@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_02_SquareArea\bin\Debug\Lecture_02_Homework_Task_02_SquareArea.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_02_SquareArea\bin\Debug\Lecture_02_Homework_Task_02_SquareArea.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_02_SquareArea\bin\Debug\Lecture_02_Homework_Task_02_SquareArea.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_02_SquareArea\obj\Debug\Lecture_02_Homework_Task_02_SquareArea.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_02_SquareArea\obj\Debug\Lecture_02_Homework_Task_02_SquareArea.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_02_SquareArea\obj\Debug\Lecture_02_Homework_Task_02_SquareArea.pdb

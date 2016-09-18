@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task15ThreeEqualNumbers\bin\Debug\Task15ThreeEqualNumbers.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task15ThreeEqualNumbers\bin\Debug\Task15ThreeEqualNumbers.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task15ThreeEqualNumbers\bin\Debug\Task15ThreeEqualNumbers.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task15ThreeEqualNumbers\obj\Debug\Task15ThreeEqualNumbers.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task15ThreeEqualNumbers\obj\Debug\Task15ThreeEqualNumbers.pdb

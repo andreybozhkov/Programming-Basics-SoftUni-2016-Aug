@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_05_Concatenate-Data\bin\Debug\Lecture_02_Homework_Task_05_Concatenate-Data.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_05_Concatenate-Data\obj\Debug\Lecture_02_Homework_Task_05_Concatenate-Data.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_05_Concatenate-Data\bin\Debug\Lecture_02_Homework_Task_05_Concatenate-Data.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_05_Concatenate-Data\bin\Debug\Lecture_02_Homework_Task_05_Concatenate-Data.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_05_Concatenate-Data\obj\Debug\Lecture_02_Homework_Task_05_Concatenate-Data.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_05_Concatenate-Data\obj\Debug\Lecture_02_Homework_Task_05_Concatenate-Data.pdb

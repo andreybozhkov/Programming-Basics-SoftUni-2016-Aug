@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_14_CurrencyConverter\bin\Debug\Task_14_CurrencyConverter.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_14_CurrencyConverter\obj\Debug\Task_14_CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_14_CurrencyConverter\bin\Debug\Task_14_CurrencyConverter.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_14_CurrencyConverter\bin\Debug\Task_14_CurrencyConverter.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_14_CurrencyConverter\obj\Debug\Task_14_CurrencyConverter.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_14_CurrencyConverter\obj\Debug\Task_14_CurrencyConverter.pdb

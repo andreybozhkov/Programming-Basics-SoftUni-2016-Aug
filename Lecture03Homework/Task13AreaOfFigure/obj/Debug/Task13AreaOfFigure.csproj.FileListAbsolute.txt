@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task13AreaOfFigure\bin\Debug\Task13AreaOfFigure.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task13AreaOfFigure\bin\Debug\Task13AreaOfFigure.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task13AreaOfFigure\bin\Debug\Task13AreaOfFigure.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task13AreaOfFigure\obj\Debug\Task13AreaOfFigure.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task13AreaOfFigure\obj\Debug\Task13AreaOfFigure.pdb

@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_13_USD-To-BGN_Converter\bin\Debug\Task_13_USD-To-BGN_Converter.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_13_USD-To-BGN_Converter\bin\Debug\Task_13_USD-To-BGN_Converter.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_13_USD-To-BGN_Converter\bin\Debug\Task_13_USD-To-BGN_Converter.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_13_USD-To-BGN_Converter\obj\Debug\Task_13_USD-To-BGN_Converter.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_13_USD-To-BGN_Converter\obj\Debug\Task_13_USD-To-BGN_Converter.pdb

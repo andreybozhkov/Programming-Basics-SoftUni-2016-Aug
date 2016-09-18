@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task02ExcellentOrNot\bin\Debug\Task02ExcellentOrNot.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task02ExcellentOrNot\bin\Debug\Task02ExcellentOrNot.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task02ExcellentOrNot\bin\Debug\Task02ExcellentOrNot.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task02ExcellentOrNot\obj\Debug\Task02ExcellentOrNot.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task02ExcellentOrNot\obj\Debug\Task02ExcellentOrNot.pdb

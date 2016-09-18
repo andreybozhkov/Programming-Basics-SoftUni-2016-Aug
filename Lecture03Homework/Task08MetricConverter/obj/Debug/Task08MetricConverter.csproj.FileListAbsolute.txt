@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task08MetricConverter\bin\Debug\Task08MetricConverter.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task08MetricConverter\bin\Debug\Task08MetricConverter.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task08MetricConverter\bin\Debug\Task08MetricConverter.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task08MetricConverter\obj\Debug\Task08MetricConverter.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task08MetricConverter\obj\Debug\Task08MetricConverter.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task08MetricConverter\obj\Debug\Task08MetricConverter.pdb

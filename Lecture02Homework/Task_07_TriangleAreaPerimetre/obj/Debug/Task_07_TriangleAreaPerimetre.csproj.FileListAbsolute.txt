@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_07_TriangleAreaPerimetre\bin\Debug\Task_07_TriangleAreaPerimetre.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_07_TriangleAreaPerimetre\bin\Debug\Task_07_TriangleAreaPerimetre.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_07_TriangleAreaPerimetre\bin\Debug\Task_07_TriangleAreaPerimetre.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_07_TriangleAreaPerimetre\obj\Debug\Task_07_TriangleAreaPerimetre.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_07_TriangleAreaPerimetre\obj\Debug\Task_07_TriangleAreaPerimetre.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_07_TriangleAreaPerimetre\obj\Debug\Task_07_TriangleAreaPerimetre.pdb

@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_08_RectangleCoordinatesAreaPerimetre\bin\Debug\Task_08_RectangleCoordinatesAreaPerimetre.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_08_RectangleCoordinatesAreaPerimetre\bin\Debug\Task_08_RectangleCoordinatesAreaPerimetre.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_08_RectangleCoordinatesAreaPerimetre\bin\Debug\Task_08_RectangleCoordinatesAreaPerimetre.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_08_RectangleCoordinatesAreaPerimetre\obj\Debug\Task_08_RectangleCoordinatesAreaPerimetre.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_08_RectangleCoordinatesAreaPerimetre\obj\Debug\Task_08_RectangleCoordinatesAreaPerimetre.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_08_RectangleCoordinatesAreaPerimetre\obj\Debug\Task_08_RectangleCoordinatesAreaPerimetre.pdb

@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task07SumMinsSeconds\bin\Debug\Task07SumMinsSeconds.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task07SumMinsSeconds\bin\Debug\Task07SumMinsSeconds.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task07SumMinsSeconds\bin\Debug\Task07SumMinsSeconds.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task07SumMinsSeconds\obj\Debug\Task07SumMinsSeconds.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task07SumMinsSeconds\obj\Debug\Task07SumMinsSeconds.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task07SumMinsSeconds\obj\Debug\Task07SumMinsSeconds.pdb

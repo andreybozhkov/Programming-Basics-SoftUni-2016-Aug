@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task14TimePlus15Minutes\bin\Debug\Task14TimePlus15Minutes.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task14TimePlus15Minutes\bin\Debug\Task14TimePlus15Minutes.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task14TimePlus15Minutes\bin\Debug\Task14TimePlus15Minutes.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task14TimePlus15Minutes\obj\Debug\Task14TimePlus15Minutes.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task14TimePlus15Minutes\obj\Debug\Task14TimePlus15Minutes.pdb

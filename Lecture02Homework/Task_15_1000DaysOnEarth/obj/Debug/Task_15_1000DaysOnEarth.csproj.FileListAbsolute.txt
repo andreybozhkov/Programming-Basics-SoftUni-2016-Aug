@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_15_1000DaysOnEarth\bin\Debug\Task_15_1000DaysOnEarth.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_15_1000DaysOnEarth\obj\Debug\Task_15_1000DaysOnEarth.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_15_1000DaysOnEarth\bin\Debug\Task_15_1000DaysOnEarth.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_15_1000DaysOnEarth\bin\Debug\Task_15_1000DaysOnEarth.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_15_1000DaysOnEarth\obj\Debug\Task_15_1000DaysOnEarth.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_15_1000DaysOnEarth\obj\Debug\Task_15_1000DaysOnEarth.pdb

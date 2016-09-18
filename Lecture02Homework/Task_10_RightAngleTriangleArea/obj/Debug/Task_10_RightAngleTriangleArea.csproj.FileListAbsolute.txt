@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_10_RightAngleTriangleArea\bin\Debug\Task_10_RightAngleTriangleArea.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_10_RightAngleTriangleArea\bin\Debug\Task_10_RightAngleTriangleArea.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_10_RightAngleTriangleArea\bin\Debug\Task_10_RightAngleTriangleArea.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_10_RightAngleTriangleArea\obj\Debug\Task_10_RightAngleTriangleArea.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Task_10_RightAngleTriangleArea\obj\Debug\Task_10_RightAngleTriangleArea.pdb

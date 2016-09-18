@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task04GreaterNumber\bin\Debug\Task04GreaterNumber.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task04GreaterNumber\bin\Debug\Task04GreaterNumber.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task04GreaterNumber\bin\Debug\Task04GreaterNumber.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task04GreaterNumber\obj\Debug\Task04GreaterNumber.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task04GreaterNumber\obj\Debug\Task04GreaterNumber.pdb

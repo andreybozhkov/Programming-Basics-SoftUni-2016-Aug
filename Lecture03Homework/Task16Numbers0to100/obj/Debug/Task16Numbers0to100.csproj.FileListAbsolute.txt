@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task16Numbers0to100\bin\Debug\Task16Numbers0to100.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task16Numbers0to100\bin\Debug\Task16Numbers0to100.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task16Numbers0to100\bin\Debug\Task16Numbers0to100.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task16Numbers0to100\obj\Debug\Task16Numbers0to100.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task16Numbers0to100\obj\Debug\Task16Numbers0to100.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task16Numbers0to100\obj\Debug\Task16Numbers0to100.pdb

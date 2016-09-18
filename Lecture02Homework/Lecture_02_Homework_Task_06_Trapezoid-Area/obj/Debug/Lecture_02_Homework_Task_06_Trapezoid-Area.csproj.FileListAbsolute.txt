@@ -1,0 +1,6 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_06_Trapezoid-Area\bin\Debug\Lecture_02_Homework_Task_06_Trapezoid-Area.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_06_Trapezoid-Area\obj\Debug\Lecture_02_Homework_Task_06_Trapezoid-Area.csprojResolveAssemblyReference.cache
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_06_Trapezoid-Area\bin\Debug\Lecture_02_Homework_Task_06_Trapezoid-Area.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_06_Trapezoid-Area\bin\Debug\Lecture_02_Homework_Task_06_Trapezoid-Area.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_06_Trapezoid-Area\obj\Debug\Lecture_02_Homework_Task_06_Trapezoid-Area.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-02\Lecture02Homework\Lecture_02_Homework_Task_06_Trapezoid-Area\obj\Debug\Lecture_02_Homework_Task_06_Trapezoid-Area.pdb

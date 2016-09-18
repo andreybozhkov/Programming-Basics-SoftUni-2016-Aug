@@ -1,0 +1,5 @@
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task03EvenOrOdd\bin\Debug\Task03EvenOrOdd.exe.config
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task03EvenOrOdd\bin\Debug\Task03EvenOrOdd.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task03EvenOrOdd\bin\Debug\Task03EvenOrOdd.pdb
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task03EvenOrOdd\obj\Debug\Task03EvenOrOdd.exe
+D:\Andrey\Dropbox\Learning\SoftUni\Programming Basics\lecture-03\Lecture03Homework\Task03EvenOrOdd\obj\Debug\Task03EvenOrOdd.pdb
